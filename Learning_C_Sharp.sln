@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "BeginnerProje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculator", "BeginnerProjects\BasicCalculator\BasicCalculator.csproj", "{C0F22032-3071-4585-90B2-A4E58854CFF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumberGame", "BeginnerProjects\GuessTheNumberGame\GuessTheNumberGame.csproj", "{6FEDAA4C-9422-4277-9697-C04A3BA0F6C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0F22032-3071-4585-90B2-A4E58854CFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F22032-3071-4585-90B2-A4E58854CFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F22032-3071-4585-90B2-A4E58854CFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEDAA4C-9422-4277-9697-C04A3BA0F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEDAA4C-9422-4277-9697-C04A3BA0F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEDAA4C-9422-4277-9697-C04A3BA0F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEDAA4C-9422-4277-9697-C04A3BA0F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
