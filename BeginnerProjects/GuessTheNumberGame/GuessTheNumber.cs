@@ -49,6 +49,8 @@ namespace BeginnerProjects.GuessTheNumberGame
                     break;
                 }
             }
+
+            Console.WriteLine("Thank you for playing Guess the Number Game.");
         }
     }
 }
